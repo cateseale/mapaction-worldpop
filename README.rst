@@ -1,0 +1,1 @@
+WorldPop now release age and gender disaggregated data at 5 year age gaps.  These are all separate rasters.  What would be useful is to use zonal stats to sum the totals for each admin area (ideally doing this for all admin levels we have data for), then format into a single table with a row for each admin area and a column for each gender\age variable.
