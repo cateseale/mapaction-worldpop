@@ -6,12 +6,16 @@ authors = ["cate <catherine.seale@ukho.gov.uk>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-rasterio = "^1.2.10"
 pandas = "^1.4.0"
 geopandas = "^0.10.2"
+earthengine-api = "^0.1.297"
+eeUtil = "^0.3.0"
+pyprojroot = "^0.2.0"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
+jupyter = "^1.0.0"
+ipykernel = "^6.9.0"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
