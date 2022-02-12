@@ -1,0 +1,7 @@
+# Replace with your google earth engine/cloud platform credentials
+SERVICE_ACCOUNT: 'serviceaccountexample@project.iam.gserviceaccount.com'
+JSON_PATH: 'path_to_service_account_json.json'
+GCP_PROJECT: 'gcp-project-name'
+BUCKET_NAME: 'gcp-bucket-name'
+POLYGONS_PATH: 'mdg_admn_ad1_py_s0_govn_pp_regions.shp'
+COUNTRY_CODE: 'mdg'
